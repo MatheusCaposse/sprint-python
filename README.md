@@ -81,4 +81,6 @@ Requisitos
 - Python 3.x: O programa foi desenvolvido usando Python e não possui dependências externas.
 Grupo
 
+Integrantes: 
+
 Matheus Machado Caposse, Caio Berardo de Araujo, Henrique Pacifico  
